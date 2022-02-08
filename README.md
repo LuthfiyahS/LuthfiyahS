@@ -1,12 +1,21 @@
 <h1 align="center">
   <b>Luthfiyah Sakinah</b>
+  
 </h1>
 
 Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development and testing. I am a fast learner and able to adapt to new technology.
 
-<br>
-
+ 
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/LuthfiyahS"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/luthfiyah-s-6a1a86171/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/LuthfiyahS/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/piaaasan/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UCRPmG2tsh9KDM3NsaBkoROA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+</p>
 <p>
+  <br>
 <div align="center">
   <a href="https://php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
@@ -24,9 +33,8 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
 </div>
 </p>
-<br><br>
-  
-
+<br>
+ 
 
 ## My Statistics
 
