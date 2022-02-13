@@ -41,9 +41,9 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 <br/>
 <p align="left">
   <a href="https://luthfiyah-sakinah.web.app/">
-  <img width="36.3%" src="https://github-readme-stats.vercel.app/api?username=LuthfiyahS&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="36.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiyahS&theme=gruvbox&hide_border=true" />
-	  <img width="26.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuthfiyahS&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
+  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=LuthfiyahS&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiyahS&theme=gruvbox&hide_border=true" />
+	  <img width="26%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuthfiyahS&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
 <br>
