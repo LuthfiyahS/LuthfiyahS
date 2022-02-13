@@ -1,12 +1,12 @@
 <h1 align="center">
-  <b>Luthfiyah Sakinah</b>
-  
+  <b>Luthfiyah Sakinah</b><br>
+  <img src="https://komarev.com/ghpvc/?username=LuthfiyahS&label=Profile%20Views&color=0e75b6&style=flat" alt="LuthfiyahS" />
 </h1>
 
 Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"> I'm a Software Engineering Technology Student with an interest in software design, web development and testing. I am a fast learner and able to adapt to new technology.
 
  
-### Let's Connect :coffee:
+## Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/LuthfiyahS"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/luthfiyah-s-6a1a86171/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -41,12 +41,18 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 <br/>
 <p align="left">
   <a href="https://luthfiyah-sakinah.web.app/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LuthfiyahS&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiyahS&theme=gruvbox&hide_border=true" />
+  <img width="36.3%" src="https://github-readme-stats.vercel.app/api?username=LuthfiyahS&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="36.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiyahS&theme=gruvbox&hide_border=true" />
+	  <img width="26.3%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuthfiyahS&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
 <br>
 
 [![Luthfiyah Sakinah' Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuthfiyahS&custom_title=LuthfiyahS%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+<br>
+## Licences and Certifications
+
+- [Belajar Dasar Pemrograman JavaScript - Dicoding](https://www.dicoding.com/certificates/NVP71VKNGPR0)
+
 ------
   <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6)-->
