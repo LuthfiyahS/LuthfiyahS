@@ -51,7 +51,7 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 [![Luthfiyah Sakinah' Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuthfiyahS&custom_title=LuthfiyahS%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 <br>
 ## Licences and Certifications
-
+- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding](https://www.dicoding.com/certificates/6RPN8EW4QZ2M)
 - [Belajar Dasar Pemrograman JavaScript - Dicoding](https://www.dicoding.com/certificates/NVP71VKNGPR0)
 
 ------
