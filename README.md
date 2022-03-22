@@ -53,6 +53,7 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 ## Licences and Certifications
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding](https://www.dicoding.com/certificates/6RPN8EW4QZ2M)
 - [Belajar Dasar Pemrograman JavaScript - Dicoding](https://www.dicoding.com/certificates/NVP71VKNGPR0)
+- [Memulai Pemrograman Dengan Dart - Dicoding](https://www.dicoding.com/certificates/GRX5KVMOKZ0M)
 
 ------
   <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6)-->
