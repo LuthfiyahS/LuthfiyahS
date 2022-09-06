@@ -20,9 +20,11 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
   <a href="https://php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
   </a>
-  
   <a href="https://laravel.com" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/>
@@ -54,6 +56,7 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding](https://www.dicoding.com/certificates/6RPN8EW4QZ2M)
 - [Belajar Dasar Pemrograman JavaScript - Dicoding](https://www.dicoding.com/certificates/NVP71VKNGPR0)
 - [Memulai Pemrograman Dengan Dart - Dicoding](https://www.dicoding.com/certificates/GRX5KVMOKZ0M)
+- [Memulai Pemrograman Dengan Python - Dicoding](https://www.dicoding.com/certificates/JLX1G020GZ72)
 
 ------
   <!--[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6)-->
