@@ -17,14 +17,14 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
 <p>
   <br>
 <div align="center">
+	<a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FF2D20" alt="nodejs"/>
+  </a>
   <a href="https://php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
   </a>
   <a href="https://laravel.com" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/>
@@ -33,6 +33,7 @@ Heya! I'm Luthfiyah Sakinah<img src="https://raw.githubusercontent.com/iampavang
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/></a>
 </div>
 </p>
 <br>
